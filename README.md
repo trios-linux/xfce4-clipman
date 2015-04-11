@@ -1,2 +1,3 @@
-# xfce4-clipman
+# xfce4-clipman-plugin
 TRIOS Build.
+This repo contains only /debian files and a script for downloading the source. Main purpose is usage with Jenkins CI.
